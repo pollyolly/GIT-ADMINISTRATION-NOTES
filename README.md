@@ -1,8 +1,8 @@
 ### Git Remote
 ```
 git remote add origin git@github.com:User/UserRepo.git
-git config --user.email <email>
-git config --user.name <name>
+git config --global user.email <email>
+git config --global user.name <name>
 ```
 ### Git Pull/Add/Commit/Tag/Push
 ```
