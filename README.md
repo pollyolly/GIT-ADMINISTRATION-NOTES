@@ -29,3 +29,8 @@ git reset --hard HEAD~1
 ```
 git reset --hard <commit-id>
 ```
+### Git Log
+```
+//check list of commits
+git log
+```
