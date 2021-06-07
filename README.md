@@ -1,5 +1,12 @@
-### Git Add/Commit/Tag/Push
+### Git Remote
 ```
+git remote add origin git@github.com:User/UserRepo.git
+git config --user.email <email>
+git config --user.name <name>
+```
+### Git Pull/Add/Commit/Tag/Push
+```
+git pull <branch_name>
 git add .
 git commit -m 'My Message'
 git tag <tag_name>
