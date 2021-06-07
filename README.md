@@ -12,6 +12,10 @@ git commit -m 'My Message'
 git tag <tag_name>
 git push origin <branch-name>
 ```
+### Git Push Tags
+```
+git push origin --tags
+```
 ### Git Checkout
 ```
 //Select your prefered branch
