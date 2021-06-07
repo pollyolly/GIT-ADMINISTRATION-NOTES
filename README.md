@@ -16,6 +16,10 @@ git push origin <branch-name>
 ```
 //Tags should be only added per latest commit
 git push origin --tags
+//Delete local tag
+git tag --delete tagname
+//Delete remote tag
+git push --delete origin tagname
 ```
 ### Git Checkout
 ```
