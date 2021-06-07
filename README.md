@@ -14,6 +14,7 @@ git push origin <branch-name>
 ```
 ### Git Push Tags
 ```
+//Tags should be only added per latest commit
 git push origin --tags
 ```
 ### Git Checkout
