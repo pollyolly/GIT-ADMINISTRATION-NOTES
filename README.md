@@ -1,7 +1,8 @@
-### Git Add/Commit/Push
+### Git Add/Commit/Tag/Push
 ```
 git add .
 git commit -m 'My Message'
+git tag <tag_name>
 git push origin <branch-name>
 ```
 ### Git Checkout
