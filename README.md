@@ -1,4 +1,4 @@
-### Git Remote
+### Git Add Remote
 ```
 git remote add origin git@github.com:User/UserRepo.git
 git config --global user.email <email>
