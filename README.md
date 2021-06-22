@@ -47,7 +47,7 @@ git log
 ```
 git push --delete origin branch_name_here
 ```
-### use Git rebase
+### Use Git rebase
 ```
 You can transfer completed work from one branch to another using git rebase
 $git rebase branch_name_here
