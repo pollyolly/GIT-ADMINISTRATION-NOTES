@@ -4,6 +4,10 @@ git remote add origin git@github.com:User/UserRepo.git
 git config --global user.email <email>
 git config --global user.name <name>
 ```
+### Git Show Remote Info
+```
+git remote show origin
+```
 ### Git Pull/Add/Commit/Tag/Push
 ```
 git pull <branch_name>
