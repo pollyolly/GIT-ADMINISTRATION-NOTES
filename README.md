@@ -43,3 +43,12 @@ git reset --hard <commit-id>
 //check list of commits
 git log
 ```
+### Remove a remote branch in Git
+```
+git push --delete origin branch_name_here
+```
+### use Git rebase
+```
+You can transfer completed work from one branch to another using git rebase
+$git rebase branch_name_here
+```
