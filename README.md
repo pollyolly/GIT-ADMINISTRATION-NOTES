@@ -50,6 +50,7 @@ git push --delete origin branch_name_here
 ### Use Git rebase
 ```
 You can transfer completed work from one branch to another using git rebase
+$git checkout master_branch
 $git rebase branch_name_here
 ```
 ### Create Branch and Switch to it
