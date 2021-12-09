@@ -74,4 +74,4 @@ git checkout branch_name
 git branch branch_name
 ```
 ### Cheat Sheet
-<img src=""></img>
+<img src="git-cheat-sheet.jpg"></img>
