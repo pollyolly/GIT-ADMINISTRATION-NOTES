@@ -12,6 +12,10 @@ git config --global user.name <name>
 ```
 git remote show origin
 ```
+### Git Clone
+```
+git clone -b <branch-name> <git-repository-url>
+```
 ### Git Pull/Add/Commit/Tag/Push
 ```
 git pull origin <branch_name>
