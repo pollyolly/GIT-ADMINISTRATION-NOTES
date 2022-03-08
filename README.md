@@ -14,7 +14,7 @@ git remote show origin
 ```
 ### Git Pull/Add/Commit/Tag/Push
 ```
-git pull <branch_name>
+git pull origin <branch_name>
 git add .
 git commit -m 'My Message'
 git tag <tag_name>
@@ -37,6 +37,7 @@ git checkout <branch name>
 ### Git Clone
 ```
 git clone <https://gitrepository>
+git clone -b <branchname> <remote-repo-url>
 ```
 ### Delete All Commit before HEAD / Delete all commit
 ```
