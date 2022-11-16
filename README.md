@@ -69,9 +69,14 @@ $git checkout -b branch_name
 ```
 $git checkout branch_name
 ```
+
 ### Create Branch
 ```
 $git branch branch_name
+```
+### Git Merge
+```
+https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/
 ```
 ### References
 [GIT CHEAT SHEET](https://www.freecodecamp.org/news/git-cheat-sheet/)
